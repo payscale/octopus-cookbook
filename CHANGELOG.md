@@ -1,6 +1,10 @@
 octopus CHANGELOG
 =================
 
+0.1.4
+-----
+- Patrick Christopher - added create_tentacle for when networking isn't up yet to register the tentacle at chef runtime
+
 0.1.2
 -----
 - Michael Burns - Cleaned-up cookbook for public release
