@@ -1,9 +1,13 @@
 octopus CHANGELOG
 =================
 
+0.1.5
+-----
+- Patrick Christopher - version bump to force librarian chef to grab latest copy
+
 0.1.4
 -----
-- Patrick Christopher - added create_tentacle for when networking isn't up yet to register the tentacle at chef runtime
+- Patrick Christopher - modified tentacle creation to use a pregenerated cert.
 
 0.1.2
 -----
